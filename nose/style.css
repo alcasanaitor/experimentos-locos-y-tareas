@@ -1,0 +1,24 @@
+.nose{ background-color : rgb(46, 46, 190);
+
+}
+.simple{color: rgb(175, 23, 23);
+
+    
+}
+body{
+background-color: rgb(63, 190, 46);
+}
+
+.bacan{
+  color: rgb(46, 46, 190);
+  width: 500px;
+  height: 100px;
+  background-color: brown;
+  padding-left: 200px;
+  margin-top: 50px;
+  margin-left: 200px;
+  padding-right: 250px
+  border-width 30px;
+  border-color:  rgb(72, 92, 100);
+
+}
