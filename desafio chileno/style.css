@@ -1,0 +1,33 @@
+.bacan{
+display: grid;
+
+
+grid-template:  200px 200px / 200px 200px 200px;
+grid-template-areas:"sopaipa pebre pebre" 
+                    "piscochileno piscochileno piscochileno";
+
+}
+
+
+.sopaipa{ grid-area: sopaipa;
+background-color: blue;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+
+
+;
+}
+
+.pebre { grid-area: pebre;
+
+background-color: white }
+
+.piscochileno{ grid-area: piscochileno;
+
+    background-color: red;
+}
+
+body{ background-color:black;}
+
