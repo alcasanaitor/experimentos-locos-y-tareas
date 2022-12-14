@@ -1,0 +1,37 @@
+
+body{
+  background-color: aqua;
+  height:1500px;
+  width:1280px;
+}
+
+nav{ display:flex;
+background-color: white;
+height: 1500px;
+width: 1200px;
+margin-left: 40px;
+margin-right: 40px;
+flex-direction: column;
+justify-content: space-around;
+align-items:center;
+flex-wrap: wrap;
+
+
+}
+
+
+
+
+nav img{
+   width: 190px;
+   border: 20px;
+   border-radius: 20px;
+
+}
+
+
+
+  
+
+   
+  
