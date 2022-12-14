@@ -7,34 +7,20 @@ body{
   margin-right: 0px;
   background-color: red;
   height: 1700px;
-  width:1280px;
+  width: 1280px;
 }
 
-h1{
-display: inline-block;
-font-size: 60px;
-height: 60px;
-margin-left:50px ;
-margin-bottom: 70px;
-margin-top: 70px;
-}
-h2{
-  display: inline-block;
-  font-size: 30px;
-  height: 60px;
-  margin-left: 100px;
-  margin-bottom: 70px;
-  margin-top: 70px;
-}
+
 
 .buenardo{
 
   display: inline-block;
  height: 100px;
  width: 100px;
- margin-left: 250px;
+ margin-left: 50px;
  margin-bottom: 50px;
  margin-top: 50px;
+ margin-right: 200px;
 
 }
 
